@@ -4,7 +4,7 @@ Abstract: Thermostability is key to successful protein engineering and therapeut
 
 ---
 
-Current version of my master's thesis with errata fixed (since it's not possible to fix it in the university repository).
+Current version of my master's thesis with errata fixed (since it's not possible to fix it in the [university repository](https://dspace.cuni.cz/handle/20.500.11956/199616)).
 
 We fix: 1)&nbsp;result kappa light chain antibodies are more stable on average than lambda, where we originally switched kappa and lambda assignment due to a bug, 
 2)&nbsp;the result for ZS3 score (AbProp holdout set SCC&nbsp;0.57 vs originally, in some parts, we report 0.58 which was for mistankenly cubing the individual score weights as in ZS4 score. However, the best on the train set for ZS3 was the identity, not cubing. The effect, though, is negligible), 3)&nbsp;several typos.
